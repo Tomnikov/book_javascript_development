@@ -1,3 +1,4 @@
+'use strict'
 const testFn = () => {
   console.log('hello');
   console.log('name');
